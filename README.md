@@ -10,7 +10,7 @@ Thinkify is a vibrant space where people from diverse backgrounds and interests 
 
 # How to Run
 ```
-git clone https://github.com/masum184e/thinkify.git
+git clone https://github.com/DaiHai027/thinkify.git
 
 # BACKEND
 cd server
