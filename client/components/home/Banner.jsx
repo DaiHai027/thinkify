@@ -1,6 +1,7 @@
 import { Box, Grid, TextField, Typography, Stack, Chip } from '@mui/material';
 import ConnectWithoutContactIcon from '@mui/icons-material/ConnectWithoutContact';
 
+//Banner component
 const Banner = () => {
     return (
         <>
